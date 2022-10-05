@@ -35,8 +35,6 @@ Was obtained from a distributed survey via Amazon Mechanical Turk between April 
 
 **Steps Involved**
 
-STEPS INVOLVED
-
 Downloaded data from Kaggle.
 Analyzed the data using R packages
 Visualized the data using ggplot2
